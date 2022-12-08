@@ -1,0 +1,21 @@
+*{
+    font-family: 'Rubik', sans-serif
+}
+
+body{
+    background-color: aliceblue;
+}
+    
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.addKitten{
+    background-color: brown;
+    width: 102px;
+    height: 35px;
+}
